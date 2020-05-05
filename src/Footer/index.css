@@ -1,0 +1,12 @@
+.Footer-Div {
+  padding: 0.2em;
+  background-color: #cf383c;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  color: white;
+  text-align: center;
+  font-family: "Bungee";
+  font-size: 10px;
+}

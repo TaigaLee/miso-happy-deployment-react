@@ -1,0 +1,55 @@
+.fake-link {
+  cursor: pointer;
+  color: blue;
+  text-decoration: underline;
+}
+
+.RecipeContainer-Span {
+  cursor: pointer;
+  color: red;
+  font-size: 2em;
+  margin: 10px 5px;
+  font-family: "Chewy";
+}
+
+.Span-Div {
+  text-align: center;
+  margin-top: 1.5em;
+}
+
+.CurrentUserH1 {
+  text-align: center;
+  font-family: "Bungee";
+  color: #6e9a42;
+  font-size: 3em;
+}
+
+.RecipeShowPage-Div {
+  margin: 20px auto;
+  border: 3px dotted #6e9a42;
+  padding: 50px;
+  width: 1000px;
+}
+
+.RecipeShowPage-Div p {
+  color: #6e9a42;
+  font-family: "Lilita One";
+  font-size: 20px;
+}
+
+.RecipeShowPage-Div h3 {
+  font-family: "Lilita One";
+  font-size: 25px;
+  color: red;
+}
+
+.RecipeShowPage-Div h4 {
+  font-family: "Carter One";
+  font-size: 20px;
+  color: #6e9a42;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
